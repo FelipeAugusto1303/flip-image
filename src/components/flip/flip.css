@@ -1,0 +1,11 @@
+.component-root{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+  
+.inside-img{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
